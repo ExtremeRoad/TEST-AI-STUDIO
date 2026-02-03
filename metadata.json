@@ -1,0 +1,7 @@
+{
+  "name": "Web AI Studio test",
+  "description": "A high-performance web application for searching, booking, and managing extreme events in Russia. Features real-time event tracking, booking management, and a robust organizer dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
